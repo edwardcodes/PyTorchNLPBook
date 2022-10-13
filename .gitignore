@@ -108,3 +108,13 @@ pip-delete-this-directory.txt
 .DS_Store
 
 attention/attention/data/processed_reviews/
+
+##Ignore data
+data/ag_news
+data/books
+data/nmt
+data/surnames
+data/yelp
+
+# environment
+nlptorchbook/
