@@ -116,7 +116,5 @@ data/nmt
 data/surnames
 data/yelp
 
-# environment
-nlptorchbook
 
 self-learning
